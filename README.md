@@ -1,2 +1,2 @@
-# noob-scripts
-Simple scripts for fun
+# YouTubeVideoDownloader
+Simple script to download youtube videos
